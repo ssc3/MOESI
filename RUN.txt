@@ -1,0 +1,20 @@
+Execution instructions:
+The code was developed in linux (ubuntu)
+-Copy the files in one folder
+-Go to that directory using terminal
+
+
+For DM cache:
+-In terminal, Simply write 
+g++ moesilooppart1.cpp 
+
+
+then write
+./a.out
+
+For Set Associative Cache:
+-In terminal, Simply write 
+g++ part2.cpp 
+
+then write
+./a.out
